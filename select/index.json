@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "冒険彗星",
+  "base_artist": "榎本くるみ",
+  "createdAt": "2025-12-04T08:42:41.705780Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_01_冒険彗星_榎本_くるみ.txt"
+    }
+  ]
+}
